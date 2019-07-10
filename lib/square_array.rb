@@ -5,8 +5,9 @@
 # 2 Need array & new array
 # 3. Use a While loop to ieterate over the array
 
-new_array = [1,2,3]
+
   def square_array(array)
+    new_array = []
     counter = 0
     while counter < array.length do
     puts array[counter]
