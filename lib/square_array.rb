@@ -6,10 +6,10 @@
 # 3. Use a While loop to ieterate over the array
 
 new_array = [1,2,3]
- def square_array(array)
-   []
-   counter = 0
-   while counter < array.length do
-   array[counter]
-   counter +=1
-   end
+  def square_array(array)
+    []
+    counter = 0
+    while counter < array.length do
+    array[counter]
+    counter +=1
+    end
